@@ -12,6 +12,9 @@ function App(props) {
                 JsxRuntime.jsx("h4", {
                       children: "Name: Suphachai Sriwised"
                     }),
+                JsxRuntime.jsx("hr", {
+                      className: "line-break"
+                    }),
                 JsxRuntime.jsxs("div", {
                       children: [
                         JsxRuntime.jsxs("div", {

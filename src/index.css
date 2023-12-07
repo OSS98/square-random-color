@@ -24,3 +24,13 @@
     width: 5vw;
     margin: 50px;
 }
+
+.line-break{
+   border-color: black;
+   border-width: thin;
+   margin-top: 10px; 
+}
+
+h4 {
+margin: 10px;
+}

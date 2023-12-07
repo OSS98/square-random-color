@@ -8,6 +8,7 @@ let make = () => {
   }
   <div className="app">
     <h4> {React.string("Name: Suphachai Sriwised")} </h4>
+    <hr className="line-break"/>
     <div className="container-color">
       <div className="box-color">
         <div className="box" style={{background: randomColor()}} />
